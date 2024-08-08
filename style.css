@@ -130,11 +130,10 @@ button {
 
 p {
     font-size: 36px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 350px;
+    padding-right: 350px;
     padding-top: 50px;
-    margin-left: 350px;
-    margin-right: 350px;
+
 }
 
 strong {
@@ -151,8 +150,8 @@ strong {
     align-items: baseline;
     margin: 100px;
     padding: 50px;
-    margin-left: 450px;
-    margin-right: 450px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 .right-singup {
